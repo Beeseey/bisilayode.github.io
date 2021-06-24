@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Beeseey/bisilayode.github.io/portfolio/static/css/main.4942a7be.chunk.css",
+    "main.js": "/Beeseey/bisilayode.github.io/portfolio/static/js/main.b0e65219.chunk.js",
+    "main.js.map": "/Beeseey/bisilayode.github.io/portfolio/static/js/main.b0e65219.chunk.js.map",
+    "runtime-main.js": "/Beeseey/bisilayode.github.io/portfolio/static/js/runtime-main.df70f8d4.js",
+    "runtime-main.js.map": "/Beeseey/bisilayode.github.io/portfolio/static/js/runtime-main.df70f8d4.js.map",
+    "static/js/2.ef4c059f.chunk.js": "/Beeseey/bisilayode.github.io/portfolio/static/js/2.ef4c059f.chunk.js",
+    "static/js/2.ef4c059f.chunk.js.map": "/Beeseey/bisilayode.github.io/portfolio/static/js/2.ef4c059f.chunk.js.map",
+    "index.html": "/Beeseey/bisilayode.github.io/portfolio/index.html",
+    "static/css/main.4942a7be.chunk.css.map": "/Beeseey/bisilayode.github.io/portfolio/static/css/main.4942a7be.chunk.css.map",
+    "static/js/2.ef4c059f.chunk.js.LICENSE.txt": "/Beeseey/bisilayode.github.io/portfolio/static/js/2.ef4c059f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df70f8d4.js",
+    "static/js/2.ef4c059f.chunk.js",
+    "static/css/main.4942a7be.chunk.css",
+    "static/js/main.b0e65219.chunk.js"
+  ]
+}
